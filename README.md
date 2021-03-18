@@ -1,0 +1,5 @@
+# Cara Install
+
+```
+npm install
+```
